@@ -1,0 +1,49 @@
+body {background: white;}
+h1{color: black;
+font-size: 100px;
+text-align: center;
+font-family: Helvetica Neue, sans-serif;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%
+}
+h2{color: grey;
+background: white;
+border: 5px solid grey;
+text-align: center;
+font-family: Helvetica, sans-serif;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%
+}
+h3{color: black;
+background: white;
+text-align: center;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%
+}
+
+#middleinfo{background-color: white;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;}
+#totheleft{position:left;}
+#relative{position: relative;
+  left: 100px;}
+#special {position:relative;
+left:30%;}
+color:blue;
+background:red;
+
+#pad{padding-top: 500px;}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
